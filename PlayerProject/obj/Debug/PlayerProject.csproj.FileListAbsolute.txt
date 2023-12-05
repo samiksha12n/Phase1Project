@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\bin\Debug\PlayerProject.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\bin\Debug\PlayerProject.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\bin\Debug\PlayerProject.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\obj\Debug\PlayerProject.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\obj\Debug\PlayerProject.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\obj\Debug\PlayerProject.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assesment Project 1\PlayerProject\PlayerProject\obj\Debug\PlayerProject.pdb
